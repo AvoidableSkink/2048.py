@@ -95,3 +95,4 @@ while not (f==tilt_field(f,"w")==tilt_field(f,"a")
         sys.exit(1)
 pprint(f)
 print("you lose")
+#man this assignment is so labor intensive i just cant handle it
