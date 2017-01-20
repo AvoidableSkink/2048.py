@@ -80,6 +80,7 @@ def pprint(f):
                 print(nexttext+str(ele),end="|")
         print()
 
+#wow look at this comment I added to the code
 f=add_random(add_random(get_new_field()))
 while not (f==tilt_field(f,"w")==tilt_field(f,"a")
 ==tilt_field(f,"s")==tilt_field(f,"d")):
